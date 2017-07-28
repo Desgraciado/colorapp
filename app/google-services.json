@@ -1,0 +1,152 @@
+{
+  "project_info": {
+    "project_number": "870848627820",
+    "firebase_url": "https://saltfish-f8eec.firebaseio.com",
+    "project_id": "saltfish-f8eec",
+    "storage_bucket": "saltfish-f8eec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870848627820:android:551d0ad38a3fe5d6",
+        "android_client_info": {
+          "package_name": "at.maliweb.ackee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870848627820-p1q5p3dtj867tt062u11ljig00p70h4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "at.maliweb.ackee",
+            "certificate_hash": "6a93d9360ac3a8e7fe4ffcbd180778d19ce7cadf"
+          }
+        },
+        {
+          "client_id": "870848627820-v1gv81kdkl20crm99lvstahe7hvbfuda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsQDmk8kjn9LmFWhtk3kVkLOdwoiZzsQk"
+        },
+        {
+          "current_key": "AIzaSyC8lPToIEfkhGjCs0BktzDLlXv90LiPh_k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870848627820-v1gv81kdkl20crm99lvstahe7hvbfuda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870848627820:android:b984fd68c9a76d59",
+        "android_client_info": {
+          "package_name": "at.maliweb.pushsetuptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870848627820-0fquhmbfm2orcn1n6cqovoejt142up5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "at.maliweb.pushsetuptest",
+            "certificate_hash": "6a93d9360ac3a8e7fe4ffcbd180778d19ce7cadf"
+          }
+        },
+        {
+          "client_id": "870848627820-v1gv81kdkl20crm99lvstahe7hvbfuda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsQDmk8kjn9LmFWhtk3kVkLOdwoiZzsQk"
+        },
+        {
+          "current_key": "AIzaSyC8lPToIEfkhGjCs0BktzDLlXv90LiPh_k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870848627820-v1gv81kdkl20crm99lvstahe7hvbfuda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870848627820:android:90e5088fff923640",
+        "android_client_info": {
+          "package_name": "app.real_time_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870848627820-visota0o5m2pp4nr9dqdh4l6p6476nup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.real_time_chat",
+            "certificate_hash": "6a93d9360ac3a8e7fe4ffcbd180778d19ce7cadf"
+          }
+        },
+        {
+          "client_id": "870848627820-v1gv81kdkl20crm99lvstahe7hvbfuda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsQDmk8kjn9LmFWhtk3kVkLOdwoiZzsQk"
+        },
+        {
+          "current_key": "AIzaSyC8lPToIEfkhGjCs0BktzDLlXv90LiPh_k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870848627820-v1gv81kdkl20crm99lvstahe7hvbfuda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
