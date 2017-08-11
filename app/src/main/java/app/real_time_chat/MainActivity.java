@@ -60,10 +60,10 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
 
                 Intent intent = new Intent(getApplicationContext(),Chat_Room.class);
-                int ctmcolor = ColorUtils.getColor("/DCIM/Camera", "raspberries.jpg");
+                int[] color = ColorUtils.getColor("/DCIM/Camera", "raspberries.jpg");
 
                 intent.putExtra("room_name","Red" );
-                intent.putExtra("user_name","Color#"+ctmcolor);
+                intent.putExtra("user_name","Color#"+color[0]+" "+color[1]+" "+color[2]);
                 startActivity(intent);
 
             }
